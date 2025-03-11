@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# React Native Calculator App
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) to create a simple calculator app in react native.
 
